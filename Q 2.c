@@ -6,7 +6,7 @@ int main()
     int x ,y ,Remainder,Quotient;
       printf("enter the dividend\n");
         scanf("%d",&x);
-      printf("enter the divisor\n");
+      //printf("enter the divisor\n");
         scanf("%d",&y);
 
     Quotient = x/y;
